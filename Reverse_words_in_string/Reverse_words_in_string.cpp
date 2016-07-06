@@ -7,7 +7,7 @@
 #include<stack>
 using namespace std;
 
-string reverse_words_in_string(string s) 
+string reverse_words_in_string(string s)
 {
 	string reversed = "";
 
